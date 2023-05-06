@@ -1,0 +1,400 @@
+{
+  "Seed": "074F816D",
+  "Species": "Tadbulb",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "092DB74B",
+  "Species": "Skwovet",
+  "Tera Type": "Bug",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1781AEBD",
+  "Species": "Applin",
+  "Tera Type": "Electric",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1ACB3E49",
+  "Species": "Dunsparce (Common)",
+  "Tera Type": "Ground",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1B7D905F",
+  "Species": "Skiddo",
+  "Tera Type": "Grass",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1CE89367",
+  "Species": "Litleo",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1D254235",
+  "Species": "Wattrel",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1F390FC9",
+  "Species": "Tadbulb",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "249B7A21",
+  "Species": "Azurill",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "2E5038E0",
+  "Species": "Azurill",
+  "Tera Type": "Ground",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "31869139",
+  "Species": "Rockruff",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "32EF7667",
+  "Species": "Bounsweet",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "3459BDAB",
+  "Species": "Bonsly",
+  "Tera Type": "Bug",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "35D51612",
+  "Species": "Flittle",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "3C3CC71C",
+  "Species": "Hatenna",
+  "Tera Type": "Water",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "4DCAF373",
+  "Species": "Litleo",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "555C2FE3",
+  "Species": "Shellder",
+  "Tera Type": "Bug",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "574177A1",
+  "Species": "Kricketot",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "57A963A7",
+  "Species": "Flabébé",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "59C854DA",
+  "Species": "Hatenna",
+  "Tera Type": "Dark",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "5A10EACA",
+  "Species": "Wattrel",
+  "Tera Type": "Rock",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "5F04CA22",
+  "Species": "Skiddo",
+  "Tera Type": "Steel",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "672E886D",
+  "Species": "Nacli",
+  "Tera Type": "Steel",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6D59291D",
+  "Species": "Applin",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6E3D8867",
+  "Species": "Nacli",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "73C74D64",
+  "Species": "Fidough",
+  "Tera Type": "Fire",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7B48A909",
+  "Species": "Sunkern",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "81232116",
+  "Species": "Tarountula",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "82B34FDF",
+  "Species": "Tadbulb",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "875BBE4D",
+  "Species": "Ralts",
+  "Tera Type": "Steel",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "878F7B27",
+  "Species": "Pichu",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8B4F2B09",
+  "Species": "Wattrel",
+  "Tera Type": "Ground",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8E131237",
+  "Species": "Petilil",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "90511033",
+  "Species": "Yungoos",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "96C00642",
+  "Species": "Petilil",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "9B87BDC9",
+  "Species": "Bonsly",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A373EBBF",
+  "Species": "Smoliv",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "ABF21EE9",
+  "Species": "Wingull",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B6A38C3E",
+  "Species": "Charcadet",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B7CF4D39",
+  "Species": "Fidough",
+  "Tera Type": "Flying",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B87681F2",
+  "Species": "Wiglett",
+  "Tera Type": "Psychic",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BB17DE54",
+  "Species": "Ralts",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BEF3B8D6",
+  "Species": "Azurill",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BF416659",
+  "Species": "Snom",
+  "Tera Type": "Dragon",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C8070EDF",
+  "Species": "Tynamo",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "D6CC25E6",
+  "Species": "Shroodle",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "DE9EB445",
+  "Species": "Snom",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F15DFDA0",
+  "Species": "Bonsly",
+  "Tera Type": "Dark",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F81F05CE",
+  "Species": "Makuhita",
+  "Tera Type": "Fire",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "FE620B3D",
+  "Species": "Wiglett",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}

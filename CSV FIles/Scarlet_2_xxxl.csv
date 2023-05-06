@@ -1,0 +1,10 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+05ABEDFF,Slowpoke,Yes,2849585A,A750A2FE,Steel,31,12,22,27,29,6,Oblivious,Modest,Female,75,151,158,0
+0613D488,Fletchling,Yes,28B13EE3,461ACDD9,Poison,13,9,28,7,31,30,Big Pecks,Bold,Female,108,129,158,0
+0ACE4DFF,Sinistea,Yes,2D6BB85A,40C853CA,Fire,22,31,0,7,4,8,Weak Armor,Serious,Genderless,57,83,158,0
+816F8379,Snorunt,Yes,A40CEDD4,238EBC77,Psychic,29,6,14,12,18,31,Inner Focus,Impish,Female,186,30,158,0
+85155404,Pawniard,Yes,A7B2BE5F,D1124E21,Fighting,31,3,10,14,6,6,Defiant,Modest,Female,128,121,158,0
+B3D25B76,Finneon,Yes,D66FC5D1,00F3759D,Fairy,10,19,9,31,16,30,Swift Swim,Hardy,Male,109,126,158,0
+CA2F80FE,Magikarp,Yes,ECCCEB59,716F3863,Flying,15,6,31,15,6,10,Swift Swim,Rash,Male,168,89,158,0
+CB4F2884,Sandygast,Yes,EDEC92DF,F2940064,Ground,10,13,31,17,31,9,Water Compaction,Naughty,Female,197,130,158,0
+EE19FA02,Cufant,Yes,10B7645D,62C66EE5,Rock,31,31,3,9,2,29,Sheer Force,Brave,Male,112,174,158,0

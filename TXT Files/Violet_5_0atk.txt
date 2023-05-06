@@ -1,0 +1,544 @@
+{
+  "Seed": "0AE13F7D",
+  "Species": "Dragonite",
+  "Tera Type": "Grass",
+  "Gender": "Female",
+  "Scale": "75",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "0B83DB94",
+  "Species": "Revavroom",
+  "Tera Type": "Dragon",
+  "Gender": "Male",
+  "Scale": "127",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "0BE44A01",
+  "Species": "Zoroark",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "79",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "13871006",
+  "Species": "Rotom",
+  "Tera Type": "Fighting",
+  "Gender": "Genderless",
+  "Scale": "163",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1917407F",
+  "Species": "Hatterene",
+  "Tera Type": "Grass",
+  "Gender": "Female",
+  "Scale": "220",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1A14D5F2",
+  "Species": "Ceruledge",
+  "Tera Type": "Psychic",
+  "Gender": "Female",
+  "Scale": "61",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "2224881B",
+  "Species": "Orthworm",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "85",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "2DA85D7A",
+  "Species": "Garganacl",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "153",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "2FF0C9FE",
+  "Species": "Florges",
+  "Tera Type": "Bug",
+  "Gender": "Female",
+  "Scale": "45",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "33A8F3FC",
+  "Species": "Altaria",
+  "Tera Type": "Fire",
+  "Gender": "Male",
+  "Scale": "174",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "3BB42B88",
+  "Species": "Scizor",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "123",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "3DA52E86",
+  "Species": "Revavroom",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "86",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "43D99276",
+  "Species": "Delibird",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "114",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "54EC70FC",
+  "Species": "Salamence",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "200",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "55F29980",
+  "Species": "Mudsdale",
+  "Tera Type": "Fire",
+  "Gender": "Female",
+  "Scale": "87",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "58002A76",
+  "Species": "Staraptor",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "137",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "58F18576",
+  "Species": "Bombirdier",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "57",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "5C21D8F6",
+  "Species": "Glimmora",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "123",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "66D7D37E",
+  "Species": "Scyther",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "133",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "66EFCB8E",
+  "Species": "Eevee",
+  "Tera Type": "Fire",
+  "Gender": "Male",
+  "Scale": "34",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "699AAFFE",
+  "Species": "Indeedee",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "109",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6E04F294",
+  "Species": "Bronzong",
+  "Tera Type": "Dragon",
+  "Gender": "Genderless",
+  "Scale": "62",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6FB6349B",
+  "Species": "Appletun",
+  "Tera Type": "Fire",
+  "Gender": "Female",
+  "Scale": "120",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6FE69014",
+  "Species": "Eelektross",
+  "Tera Type": "Dragon",
+  "Gender": "Male",
+  "Scale": "56",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "70B0B81E",
+  "Species": "Indeedee",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "164",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "70DC3CF1",
+  "Species": "Houndoom",
+  "Tera Type": "Electric",
+  "Gender": "Female",
+  "Scale": "146",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "72F680FC",
+  "Species": "Dragapult",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "36",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "742F4F7B",
+  "Species": "Noivern",
+  "Tera Type": "Water",
+  "Gender": "Male",
+  "Scale": "133",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "771A108A",
+  "Species": "Froslass",
+  "Tera Type": "Rock",
+  "Gender": "Female",
+  "Scale": "67",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7B049801",
+  "Species": "Mabosstiff",
+  "Tera Type": "Rock",
+  "Gender": "Female",
+  "Scale": "190",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7BD78779",
+  "Species": "Baxcalibur",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "198",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7C9FD086",
+  "Species": "Breloom",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "37",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7FC2DC7A",
+  "Species": "Staraptor",
+  "Tera Type": "Electric",
+  "Gender": "Female",
+  "Scale": "73",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "804E94F2",
+  "Species": "Camerupt",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "131",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8121FFF5",
+  "Species": "Scizor",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "245",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8166A085",
+  "Species": "Florges",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "116",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "837EF67B",
+  "Species": "Mismagius",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "106",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "85D0087D",
+  "Species": "Braviary",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "90",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8B5D2E7A",
+  "Species": "Weavile",
+  "Tera Type": "Fire",
+  "Gender": "Male",
+  "Scale": "103",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8DDDDC7C",
+  "Species": "Luxray",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "124",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "90D7F3F2",
+  "Species": "Altaria",
+  "Tera Type": "Psychic",
+  "Gender": "Female",
+  "Scale": "131",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "951FDEF3",
+  "Species": "Indeedee",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "162",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "9599F293",
+  "Species": "Scyther",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "41",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "95F29C76",
+  "Species": "Cloyster",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "118",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A3675EFE",
+  "Species": "Indeedee",
+  "Tera Type": "Rock",
+  "Gender": "Female",
+  "Scale": "181",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A5B830FA",
+  "Species": "Salamence",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "152",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A61E1CF6",
+  "Species": "Kingambit",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "24",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AB065572",
+  "Species": "Brambleghast",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "130",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AD00E1FF",
+  "Species": "Mismagius",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "156",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "ADA712F7",
+  "Species": "Gardevoir",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "225",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AE2F0C73",
+  "Species": "Corviknight",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "163",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B4E936F2",
+  "Species": "Garchomp",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "181",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B4ED151F",
+  "Species": "Slowbro",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "40",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B916D480",
+  "Species": "Garchomp",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "96",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BB2CB181",
+  "Species": "Mismagius",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "217",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C37CE504",
+  "Species": "Pawmot",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "96",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "CEE3D608",
+  "Species": "Mabosstiff",
+  "Tera Type": "Poison",
+  "Gender": "Male",
+  "Scale": "117",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "CFAAC783",
+  "Species": "Tatsugiri (Droopy)",
+  "Tera Type": "Rock",
+  "Gender": "Male",
+  "Scale": "196",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "D20BCF78",
+  "Species": "Noivern",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "133",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "D65226F9",
+  "Species": "Tatsugiri (Droopy)",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "61",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "DA14BCF4",
+  "Species": "Houndoom",
+  "Tera Type": "Dragon",
+  "Gender": "Male",
+  "Scale": "200",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EC6269FD",
+  "Species": "Annihilape",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "233",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EE372698",
+  "Species": "Scyther",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "128",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F13CBD18",
+  "Species": "Raichu",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "103",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F630EAF3",
+  "Species": "Noivern",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "157",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F6F87EF1",
+  "Species": "Ditto",
+  "Tera Type": "Electric",
+  "Gender": "Genderless",
+  "Scale": "57",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F8D8F383",
+  "Species": "Altaria",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "146",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "FFEB7CFA",
+  "Species": "Houndoom",
+  "Tera Type": "Fire",
+  "Gender": "Female",
+  "Scale": "116",
+  "Shiny": "Yes",
+}

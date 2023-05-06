@@ -1,0 +1,58 @@
+[
+    {
+        "Seed": "0B0F47F6",
+        "Species": "Psyduck",
+        "Tera Type": "Fairy",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "0FA59196",
+        "Species": "Varoom",
+        "Tera Type": "Fairy",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "256F639E",
+        "Species": "Pikachu",
+        "Tera Type": "Rock",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "37E4C67A",
+        "Species": "Mankey",
+        "Tera Type": "Poison",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "3E26F07C",
+        "Species": "Snorunt",
+        "Tera Type": "Water",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "8FD52104",
+        "Species": "Mudbray",
+        "Tera Type": "Ice",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "D8D84006",
+        "Species": "Gastly",
+        "Tera Type": "Fighting",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    }
+]

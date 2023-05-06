@@ -1,0 +1,74 @@
+[
+    {
+        "Seed": "05ABEDFF",
+        "Species": "Slowpoke",
+        "Tera Type": "Steel",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "0613D488",
+        "Species": "Fletchling",
+        "Tera Type": "Poison",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "0ACE4DFF",
+        "Species": "Sinistea",
+        "Tera Type": "Fire",
+        "Gender": "Genderless",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "816F8379",
+        "Species": "Snorunt",
+        "Tera Type": "Psychic",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "85155404",
+        "Species": "Pawniard",
+        "Tera Type": "Fighting",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "B3D25B76",
+        "Species": "Finneon",
+        "Tera Type": "Fairy",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "CA2F80FE",
+        "Species": "Magikarp",
+        "Tera Type": "Flying",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "CB4F2884",
+        "Species": "Sandygast",
+        "Tera Type": "Ground",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "EE19FA02",
+        "Species": "Cufant",
+        "Tera Type": "Rock",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    }
+]

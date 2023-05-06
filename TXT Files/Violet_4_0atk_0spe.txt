@@ -1,0 +1,32 @@
+{
+  "Seed": "2A6912E4",
+  "Species": "Hypno",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "228",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "3843B0D9",
+  "Species": "Grumpig",
+  "Tera Type": "Rock",
+  "Gender": "Male",
+  "Scale": "97",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "730D015D",
+  "Species": "Toxicroak",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "99",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C9A927D2",
+  "Species": "Swalot",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "136",
+  "Shiny": "Yes",
+}

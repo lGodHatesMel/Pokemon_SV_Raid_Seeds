@@ -1,0 +1,16 @@
+{
+  "Seed": "05ABEDFF",
+  "Species": "Indeedee",
+  "Tera Type": "Steel",
+  "Gender": "Male",
+  "Scale": "255",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1A6D6FF9",
+  "Species": "Gardevoir",
+  "Tera Type": "Fire",
+  "Gender": "Female",
+  "Scale": "255",
+  "Shiny": "Yes",
+}

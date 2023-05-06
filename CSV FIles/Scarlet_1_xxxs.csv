@@ -1,0 +1,59 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+01FE8E13,Wattrel,Yes,249BF86E,F7FECD90,Ice,20,19,15,14,31,1,Wind Power,Timid,Female,219,176,158,0
+06907AE9,Yungoos,Yes,292DE544,542F5964,Ground,31,14,18,9,27,10,Stakeout,Docile,Male,162,178,158,0
+0E98634D,Charcadet,Yes,3135CDA8,7CCAF71D,Steel,19,10,0,30,21,31,Flash Fire,Brave,Female,158,107,158,0
+22D86013,Shroomish,Yes,4575CA6E,8C04D98A,Ice,26,31,13,5,22,7,Effect Spore,Relaxed,Female,60,52,158,0
+25A8E69D,Nymble,Yes,484650F8,CF611F40,Bug,31,30,10,0,0,0,Swarm,Hasty,Male,89,175,158,0
+2AF11856,Igglybuff,Yes,4D8E82B1,F809D813,Fairy,23,31,16,9,5,15,Cute Charm,Sassy,Male,170,23,158,0
+30151551,Tarountula,Yes,52B27FAC,905AAD2B,Electric,3,22,28,31,17,15,Insomnia,Quiet,Male,166,117,158,0
+3739A70B,Rellor,Yes,59D71166,2389F03F,Bug,25,14,9,31,19,10,Compound Eyes,Rash,Male,79,64,158,0
+427FC7CE,Flittle,Yes,651D3229,392EB2A1,Fire,31,7,13,28,17,25,Anticipation,Naughty,Female,118,78,158,0
+450CA7E5,Shroomish,Yes,67AA1240,7BC6242B,Normal,31,26,7,15,29,11,Effect Spore,Lonely,Male,153,108,158,0
+48AE5C52,Swablu,Yes,6B4BC6AD,0B320D1C,Psychic,28,15,0,27,31,28,Natural Cure,Sassy,Male,69,133,158,0
+4C7D6D5E,Drowzee,Yes,6F1AD7B9,4290FB16,Fairy,23,31,31,25,17,6,Insomnia,Calm,Female,200,119,158,0
+58ECAADE,Rellor,Yes,7B8A1539,12A244D3,Psychic,19,13,18,11,7,31,Compound Eyes,Hardy,Female,135,143,158,0
+608A14CF,Hatenna,Yes,83277F2A,8EF06419,Water,24,30,12,21,13,31,Healer,Docile,Female,139,209,158,0
+633D02D2,Shroodle,Yes,85DA6D2D,57A98FE1,Psychic,4,27,3,31,16,31,Pickpocket,Bashful,Male,205,156,158,0
+66E1C796,Yungoos,Yes,897F31F1,EA46E236,Fairy,4,31,31,11,7,27,Strong Jaw,Adamant,Male,162,121,158,0
+6770C2BE,Tadbulb,Yes,8A0E2D19,24D35409,Psychic,5,20,31,15,28,26,Own Tempo,Naughty,Male,123,131,158,0
+6D315028,Yungoos,Yes,8FCEBA83,3610ED36,Poison,31,14,4,2,18,8,Stakeout,Bold,Male,154,7,158,0
+6D51CA2C,Rellor,Yes,8FEF3487,B3D464E3,Ghost,18,1,11,31,23,16,Compound Eyes,Naughty,Female,91,116,158,0
+6E64C789,Azurill,Yes,910231E4,FEB99E49,Ground,31,1,4,4,24,7,Huge Power,Impish,Male,123,108,158,0
+6F8F11BC,Bounsweet,Yes,922C7C17,ABC0DE18,Dark,5,5,10,6,31,15,Oblivious,Careful,Female,120,215,158,0
+73D0FACE,Flabébé,Yes,966E6529,B346685A,Fire,24,18,26,31,3,23,Flower Veil,Quiet,Female,107,165,158,0
+745274E9,Lechonk,Yes,96EFDF44,BF0D078B,Ground,11,4,21,31,15,22,Aroma Veil,Gentle,Female,100,231,158,0
+7A0CC7C0,Wattrel,Yes,9CAA321B,AC69F941,Bug,21,5,26,10,21,31,Volt Absorb,Modest,Female,23,125,158,0
+7B26D396,Lechonk,Yes,9DC43DF1,13F4314C,Fairy,2,12,27,31,6,24,Gluttony,Naughty,Female,192,97,158,0
+7C944B8B,Charcadet,Yes,9F31B5E6,D1AFC8F4,Bug,26,31,23,26,15,29,Flash Fire,Naughty,Female,153,131,158,0
+80CCC82C,Nacli,Yes,A36A3287,AFF2FEAB,Ghost,17,31,17,13,10,27,Purifying Salt,Modest,Male,155,78,158,0
+8160045F,Skwovet,Yes,A3FD6EBA,21A25A5A,Psychic,13,15,31,16,10,13,Cheek Pouch,Quirky,Female,196,141,158,0
+81A8B542,Tarountula,Yes,A4461F9D,408FDFC4,Psychic,2,30,11,29,31,21,Insomnia,Gentle,Female,34,114,158,0
+82E962A5,Rockruff,Yes,A586CD00,3C426A1D,Normal,19,22,21,12,31,9,Vital Spirit,Naive,Male,161,97,158,0
+87EA6036,Wooper,Yes,AA87CA91,3ADCEE80,Fairy,31,13,23,14,23,5,Water Absorb,Gentle,Female,174,72,158,0
+888AF09F,Nacli,Yes,AB285AFA,C1610C3F,Ghost,23,7,19,9,31,31,Purifying Salt,Lonely,Female,149,120,158,0
+89A491B3,Bounsweet,Yes,AC41FC0E,17220599,Ice,31,25,2,7,27,6,Leaf Guard,Gentle,Female,205,166,158,0
+8CC18E0D,Pichu,Yes,AF5EF868,A877201F,Steel,1,26,9,11,31,11,Static,Modest,Male,120,134,158,0
+955C29F1,Flittle,Yes,B7F9944C,035828F0,Electric,31,14,31,19,10,16,Frisk,Rash,Male,82,151,158,0
+9671120E,Ralts,Yes,B90E7C69,6F0EDF09,Fire,29,6,28,25,20,31,Synchronize,Careful,Female,120,160,158,0
+9DF8BC68,Swablu,Yes,C09626C3,9CBDCDFC,Poison,31,4,5,28,28,13,Natural Cure,Hardy,Male,157,170,158,0
+9F7780C6,Sunkern,Yes,C214EB21,5EDDA249,Fighting,31,22,20,23,21,3,Chlorophyll,Lax,Female,125,210,158,0
+A0869662,Bounsweet,Yes,C32400BD,A4D4FE45,Fire,25,31,18,3,31,9,Oblivious,Bold,Female,79,136,158,0
+AC4D9D38,Combee,Yes,CEEB0793,DBB86BA2,Flying,21,27,31,28,30,23,Honey Gather,Impish,Male,97,135,158,0
+AE57C7C0,Swablu,Yes,D0F5321B,F2BA1B56,Electric,31,26,27,13,26,25,Natural Cure,Calm,Female,197,48,158,0
+B30CAA20,Flittle,Yes,D5AA147B,DBCAF2A9,Psychic,31,18,10,14,7,9,Anticipation,Careful,Male,143,121,158,0
+C1D2869D,Dunsparce (Common),Yes,E46FF0F8,1FF9E292,Flying,31,23,15,14,8,31,Run Away,Bashful,Female,121,113,158,0
+C2352F60,Tadbulb,Yes,E4D299BB,8529EF35,Dark,31,20,16,5,6,31,Own Tempo,Impish,Female,104,124,158,0
+C664DB30,Pichu,Yes,E902458B,4A0413CC,Grass,15,9,28,25,9,31,Static,Gentle,Male,80,171,158,0
+D2EF5BF4,Igglybuff,Yes,F58CC64F,7A1C904B,Dragon,9,2,26,31,29,12,Cute Charm,Quirky,Female,109,151,158,0
+D480E6E2,Rockruff,Yes,F71E513D,EE10B999,Ice,27,31,14,22,16,24,Keen Eye,Hasty,Male,81,177,158,0
+D637AFCF,Shellder,Yes,F8D51A2A,A0AA066D,Water,31,17,10,16,31,20,Shell Armor,Timid,Female,146,123,158,0
+DA17C0C8,Tynamo,Yes,FCB52B23,2452136B,Poison,27,14,31,9,21,28,Levitate,Quirky,Female,187,149,158,0
+DD16C161,Hatenna,Yes,FFB42BBC,2E397DC9,Fire,31,17,7,29,17,10,Anticipation,Naughty,Female,169,116,158,0
+E23B6544,Nymble,Yes,04D8CF9F,E0103DC8,Steel,19,17,19,24,31,30,Swarm,Timid,Male,136,176,158,0
+E5111E27,Wingull,Yes,07AE8882,3DEE779B,Flying,29,31,18,14,0,10,Keen Eye,Jolly,Male,179,70,158,0
+EB364AA3,Dunsparce (Common),Yes,0DD3B4FE,B3816292,Fairy,29,18,8,3,31,31,Run Away,Gentle,Male,78,229,158,0
+EEABC326,Shroomish,Yes,11492D81,AB89E414,Fighting,31,26,19,22,2,22,Poison Heal,Adamant,Male,151,130,158,0
+F3A269B5,Flittle,Yes,163FD410,897807FC,Dark,2,17,31,14,8,14,Frisk,Rash,Female,179,46,158,0
+F50922C9,Makuhita,Yes,17A68D24,2BBAF6A7,Ground,6,26,16,21,2,31,Guts,Jolly,Male,140,218,158,0
+F624D2E2,Deerling,Yes,18C23D3D,78317D1D,Poison,23,18,21,31,16,8,Chlorophyll,Relaxed,Male,167,146,158,0
+FF685643,Bounsweet,Yes,2205C09E,AE1C3385,Rock,5,15,26,15,28,31,Oblivious,Naughty,Female,147,122,158,0

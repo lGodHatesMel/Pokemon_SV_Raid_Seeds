@@ -1,0 +1,69 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+0AE13F7D,Dragonite,Yes,2D7EA9D8,94B843C5,Grass,31,0,31,31,31,31,Inner Focus,Hardy,Female,178,177,75,0
+0B83DB94,Revavroom,Yes,2E2145EF,0A228B7C,Dragon,31,0,31,31,31,31,Overcoat,Bold,Male,17,91,127,0
+0BE44A01,Zoroark,Yes,2E81B45C,A7C8B54E,Ice,31,0,31,31,31,31,Illusion,Calm,Male,79,215,79,0
+13871006,Rotom,Yes,36247A61,22432ADF,Fighting,31,0,31,31,31,31,Levitate,Serious,Genderless,50,183,163,0
+1917407F,Hatterene,Yes,3BB4AADA,6BC3F005,Grass,31,0,31,31,31,31,Healer,Lax,Female,200,198,220,0
+1A14D5F2,Ceruledge,Yes,3CB2404D,78985FB7,Psychic,31,0,31,31,31,31,Flash Fire,Adamant,Female,122,148,61,0
+2224881B,Orthworm,Yes,44C1F276,BAB7E40A,Normal,31,0,31,31,31,31,Earth Eater,Rash,Female,185,121,85,0
+2DA85D7A,Garganacl,Yes,5045C7D5,DA902938,Flying,31,0,31,31,31,31,Sturdy,Naughty,Female,68,86,153,0
+2FF0C9FE,Florges,Yes,528E3459,F6308168,Bug,31,0,31,31,31,31,Symbiosis,Timid,Female,77,139,45,0
+33A8F3FC,Altaria,Yes,56465E57,DBD9DB71,Fire,31,0,31,31,31,31,Cloud Nine,Bashful,Male,126,104,174,0
+3BB42B88,Scizor,Yes,5E5195E3,1174445C,Poison,31,0,31,31,31,31,Swarm,Naive,Female,20,126,123,0
+3DA52E86,Revavroom,Yes,604298E1,DB509AE6,Fighting,31,0,31,31,31,31,Overcoat,Serious,Female,133,82,86,0
+43D99276,Delibird,Yes,6676FCD1,A1EEC4FF,Fairy,31,0,31,31,31,31,Vital Spirit,Docile,Female,191,192,114,0
+54EC70FC,Salamence,Yes,7789DB57,0BCAA7BA,Steel,31,0,31,31,31,31,Intimidate,Naughty,Female,110,90,200,0
+55F29980,Mudsdale,Yes,789003DB,262E5DAB,Fire,31,0,31,31,31,31,Own Tempo,Calm,Female,89,20,87,0
+58002A76,Staraptor,Yes,7A9D94D1,6051AF8C,Fairy,31,0,31,31,31,31,Intimidate,Sassy,Male,97,82,137,0
+58F18576,Bombirdier,Yes,7B8EEFD1,1E02344E,Fairy,31,0,31,31,31,31,Rocky Payload,Calm,Female,142,46,57,0
+5C21D8F6,Glimmora,Yes,7EBF4351,E32D8C19,Fairy,31,0,31,31,31,31,Corrosion,Brave,Male,140,203,123,0
+66D7D37E,Scyther,Yes,89753DD9,C247F249,Psychic,31,0,31,31,31,31,Technician,Timid,Male,135,128,133,0
+66EFCB8E,Eevee,Yes,898D35E9,22634DEE,Fire,31,0,31,31,31,31,Anticipation,Naive,Male,247,95,34,0
+699AAFFE,Indeedee,Yes,8C381A59,D3A5E310,Ice,31,0,31,31,31,31,Synchronize,Docile,Male,145,101,109,0
+6E04F294,Bronzong,Yes,90A25CEF,7EB12D61,Dragon,31,0,31,31,31,31,Heatproof,Hasty,Genderless,186,125,62,0
+6FB6349B,Appletun,Yes,92539EF6,475A177E,Fire,31,0,31,31,31,31,Ripen,Quirky,Female,123,123,120,0
+6FE69014,Eelektross,Yes,9283FA6F,05A1DADA,Dragon,31,0,31,31,31,31,Levitate,Mild,Male,63,146,56,0
+70B0B81E,Indeedee,Yes,934E2279,3785C5D5,Dragon,31,0,31,31,31,31,Psychic Surge,Sassy,Female,155,105,164,0
+70DC3CF1,Houndoom,Yes,9379A74C,E54C2A53,Electric,31,0,31,31,31,31,Flash Fire,Modest,Female,230,107,146,0
+72F680FC,Dragapult,Yes,9593EB57,4CACCEDC,Fairy,31,0,31,31,31,31,Infiltrator,Calm,Female,78,165,36,0
+742F4F7B,Noivern,Yes,96CCB9D6,346B3B4D,Water,31,0,31,31,31,31,Infiltrator,Jolly,Male,68,101,133,0
+771A108A,Froslass,Yes,99B77AE5,DE3D8EE3,Rock,31,0,31,31,31,31,Snow Cloak,Jolly,Female,74,135,67,0
+7B049801,Mabosstiff,Yes,9DA2025C,8AAC54BC,Rock,31,0,31,31,31,31,Guard Dog,Careful,Female,173,126,190,0
+7BD78779,Baxcalibur,Yes,9E74F1D4,D6B7ECC9,Psychic,31,0,31,31,31,31,Thermal Exchange,Naughty,Male,101,106,198,0
+7C9FD086,Breloom,Yes,9F3D3AE1,FF51A1EC,Fighting,31,0,31,31,31,31,Poison Heal,Naive,Female,146,111,37,0
+7FC2DC7A,Staraptor,Yes,A26046D5,886E897C,Electric,31,0,31,31,31,31,Reckless,Adamant,Female,125,156,73,0
+804E94F2,Camerupt,Yes,A2EBFF4D,A813879F,Psychic,31,0,31,31,31,31,Anger Point,Docile,Male,133,171,131,0
+8121FFF5,Scizor,Yes,A3BF6A50,1AFEC9FB,Dark,31,0,31,31,31,31,Technician,Hasty,Male,111,65,245,0
+8166A085,Florges,Yes,A4040AE0,0810B1F5,Normal,31,0,31,31,31,31,Flower Veil,Bold,Female,203,150,116,0
+837EF67B,Mismagius,Yes,A61C60D6,653034FC,Dragon,31,0,31,31,31,31,Levitate,Modest,Female,99,106,106,0
+85D0087D,Braviary,Yes,A86D72D8,E66C7A71,Fairy,31,0,31,31,31,31,Defiant,Adamant,Male,94,186,90,0
+8B5D2E7A,Weavile,Yes,ADFA98D5,F2A86C49,Fire,31,0,31,31,31,31,Pickpocket,Modest,Male,247,128,103,0
+8DDDDC7C,Luxray,Yes,B07B46D7,F811A577,Flying,31,0,31,31,31,31,Intimidate,Quirky,Female,141,167,124,0
+90D7F3F2,Altaria,Yes,B3755E4D,D636305C,Psychic,31,0,31,31,31,31,Natural Cure,Impish,Female,156,223,131,0
+951FDEF3,Indeedee,Yes,B7BD494E,F8E35F3B,Ice,31,0,31,31,31,31,Own Tempo,Bold,Female,177,202,162,0
+9599F293,Scyther,Yes,B8375CEE,1108C75E,Ice,31,0,31,31,31,31,Technician,Serious,Male,152,164,41,0
+95F29C76,Cloyster,Yes,B89006D1,6E42C13B,Fairy,31,0,31,31,31,31,Shell Armor,Bashful,Male,212,161,118,0
+A3675EFE,Indeedee,Yes,C604C959,2687DA65,Rock,31,0,31,31,31,31,Synchronize,Sassy,Female,39,198,181,0
+A5B830FA,Salamence,Yes,C8559B55,A22B50AD,Fairy,31,0,31,31,31,31,Intimidate,Lonely,Female,188,166,152,0
+A61E1CF6,Kingambit,Yes,C8BB8751,0955F480,Fairy,31,0,31,31,31,31,Pressure,Careful,Male,176,49,24,0
+AB065572,Brambleghast,Yes,CDA3BFCD,ABCADF18,Psychic,31,0,31,31,31,31,Wind Rider,Lonely,Male,24,208,130,0
+AD00E1FF,Mismagius,Yes,CF9E4C5A,C7B33260,Normal,31,0,31,31,31,31,Levitate,Careful,Male,122,82,156,0
+ADA712F7,Gardevoir,Yes,D0447D52,359FC62E,Ice,31,0,31,31,31,31,Telepathy,Naive,Male,97,210,225,0
+AE2F0C73,Corviknight,Yes,D0CC76CE,54212D04,Ice,31,0,31,31,31,31,Pressure,Jolly,Female,143,166,163,0
+B4E936F2,Garchomp,Yes,D786A14D,74AE72C2,Psychic,31,0,31,31,31,31,Sand Veil,Gentle,Male,107,110,181,0
+B4ED151F,Slowbro,Yes,D78A7F7A,652B8250,Dark,31,0,31,31,31,31,Regenerator,Rash,Male,102,85,40,0
+B916D480,Garchomp,Yes,DBB43EDB,FD9AE9B2,Ice,31,0,31,31,31,31,Sand Veil,Lax,Female,130,119,96,0
+BB2CB181,Mismagius,Yes,DDCA1BDC,63577E1F,Psychic,31,0,31,31,31,31,Levitate,Bashful,Male,133,193,217,0
+C37CE504,Pawmot,Yes,E61A4F5F,A4F1A5F6,Normal,31,0,31,31,31,31,Volt Absorb,Timid,Female,13,56,96,0
+CEE3D608,Mabosstiff,Yes,F1814063,676D20F1,Poison,31,0,31,31,31,31,Stakeout,Naive,Male,105,154,117,0
+CFAAC783,Tatsugiri (Droopy),Yes,F24831DE,8A994E45,Rock,31,0,31,31,31,31,Commander,Bashful,Male,172,195,196,0
+D20BCF78,Noivern,Yes,F4A939D3,0B8B5A66,Fighting,31,0,31,31,31,31,Infiltrator,Serious,Male,125,116,133,0
+D65226F9,Tatsugiri (Droopy),Yes,F8EF9154,3224DC8D,Normal,31,0,31,31,31,31,Commander,Calm,Male,89,194,61,0
+DA14BCF4,Houndoom,Yes,FCB2274F,20450B5E,Dragon,31,0,31,31,31,31,Flash Fire,Impish,Male,136,84,200,0
+EC6269FD,Annihilape,Yes,0EFFD458,8A903C6E,Ice,31,0,31,31,31,31,Defiant,Rash,Female,199,38,233,0
+EE372698,Scyther,Yes,10D490F3,BB90AC59,Normal,31,0,31,31,31,31,Swarm,Impish,Female,167,202,128,0
+F13CBD18,Raichu,Yes,13DA2773,D615A2D0,Dark,31,0,31,31,31,31,Static,Naive,Male,229,57,103,0
+F630EAF3,Noivern,Yes,18CE554E,C79A93A5,Ice,31,0,31,31,31,31,Frisk,Mild,Female,79,135,157,0
+F6F87EF1,Ditto,Yes,1995E94C,E61B2359,Electric,31,0,31,31,31,31,Imposter,Adamant,Genderless,118,102,57,0
+F8D8F383,Altaria,Yes,1B765DDE,6F2CB342,Flying,31,0,31,31,31,31,Cloud Nine,Quirky,Female,74,124,146,0
+FFEB7CFA,Houndoom,Yes,2288E755,B9F27A89,Fire,31,0,31,31,31,31,Early Bird,Hardy,Female,25,68,116,0
