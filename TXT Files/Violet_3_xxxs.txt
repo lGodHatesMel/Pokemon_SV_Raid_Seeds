@@ -1,0 +1,160 @@
+{
+  "Seed": "01FE8E13",
+  "Species": "Bergmite",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1F3900A6",
+  "Species": "Sunflora",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "22D86013",
+  "Species": "Naclstack",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "33A8FD30",
+  "Species": "Qwilfish",
+  "Tera Type": "Grass",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "4BEF578F",
+  "Species": "Kirlia",
+  "Tera Type": "Water",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6770C2BE",
+  "Species": "Naclstack",
+  "Tera Type": "Psychic",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6D51CA2C",
+  "Species": "Goomy",
+  "Tera Type": "Ghost",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "82E962A5",
+  "Species": "Naclstack",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "87EA6036",
+  "Species": "Fletchinder",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "89A491B3",
+  "Species": "Luxio",
+  "Tera Type": "Ice",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8CC18E0D",
+  "Species": "Pikachu",
+  "Tera Type": "Steel",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AC4D9D38",
+  "Species": "Qwilfish",
+  "Tera Type": "Flying",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AE57C7C0",
+  "Species": "Corvisquire",
+  "Tera Type": "Electric",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C1D2869D",
+  "Species": "Chansey",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C664DB30",
+  "Species": "Pikachu",
+  "Tera Type": "Grass",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C980D030",
+  "Species": "Zangoose",
+  "Tera Type": "Grass",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "E5111E27",
+  "Species": "Flaaffy",
+  "Tera Type": "Flying",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EACA8BBF",
+  "Species": "Mareanie",
+  "Tera Type": "Bug",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EEABC326",
+  "Species": "Charcadet",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F6FA779D",
+  "Species": "Seviper",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}

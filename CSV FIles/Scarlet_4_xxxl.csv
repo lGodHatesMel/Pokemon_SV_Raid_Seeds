@@ -1,0 +1,23 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+0477DA66,Farigiraf,Yes,271544C1,D7E84C2D,Fighting,31,31,19,31,24,29,Cud Chew,Impish,Female,159,204,158,0
+059A8B63,Pyroar,Yes,2837F5BE,6C8B9ACE,Ice,31,21,29,31,31,31,Moxie,Quiet,Female,80,130,158,0
+1B7D905F,Gabite,Yes,3E1AFABA,1298CB0F,Grass,6,1,31,11,31,31,Sand Veil,Naive,Female,38,115,158,0
+29C82A0F,Pyroar,Yes,4C65946A,5560A3C9,Water,31,31,31,5,31,8,Rivalry,Rash,Female,185,92,158,0
+32EF7667,Skuntank,Yes,558CE0C2,E68F13F7,Flying,31,31,13,31,29,6,Stench,Brave,Female,102,96,158,0
+40A17CE7,Forretress,Yes,633EE742,C6AA641A,Flying,31,22,11,31,9,31,Sturdy,Bashful,Male,60,96,158,0
+59C854DA,Lycanroc (Midday),Yes,7C65BF35,7FD9E6C5,Dark,11,17,5,31,31,31,Steadfast,Naive,Female,51,135,158,0
+5D820662,Drednaw,Yes,801F70BD,6BCF345E,Steel,31,31,11,7,31,15,Strong Jaw,Lonely,Female,128,202,158,0
+672E886D,Sliggoo,Yes,89CBF2C8,1E121017,Steel,31,26,31,31,23,31,Gooey,Adamant,Male,91,127,158,0
+6B0E27ED,Whiscash,Yes,8DAB9248,A307E220,Steel,31,31,26,9,31,17,Oblivious,Sassy,Male,220,77,158,0
+82B34FDF,Barraskewda,Yes,A550BA3A,5421AF13,Dragon,31,31,28,31,26,14,Swift Swim,Hardy,Female,79,100,158,0
+A5C34664,Drednaw,Yes,C860B0BF,BD79C42D,Dragon,15,18,31,31,31,15,Shell Armor,Relaxed,Female,173,163,158,0
+AC3A2DE5,Toedscruel,Yes,CED79840,A1F157F9,Normal,31,31,17,31,29,23,Mycelium Might,Adamant,Female,179,224,158,0
+B17E6A20,Magneton,Yes,D41BD47B,92FEBA31,Psychic,11,22,31,25,31,31,Sturdy,Calm,Genderless,51,120,158,0
+BEF3B8D6,Persian,Yes,E1912331,942A7859,Fairy,31,15,16,31,20,31,Unnerve,Careful,Female,194,113,158,0
+C992A759,Bisharp,Yes,EC3011B4,27C50F1C,Ice,25,27,31,31,12,31,Defiant,Brave,Female,105,198,158,0
+D6CC25E6,Ditto,Yes,F9699041,FA9A36AB,Fighting,31,31,6,8,28,31,Imposter,Calm,Genderless,166,97,158,0
+E127B7D8,Lilligant,Yes,03C52233,70246680,Normal,31,31,11,31,17,22,Chlorophyll,Quiet,Female,42,140,158,0
+EE805368,Toedscruel,Yes,111DBDC3,019C97F0,Poison,2,31,13,31,31,2,Mycelium Might,Naive,Female,90,70,158,0
+F09A6FE2,Lycanroc (Midday),Yes,1337DA3D,6CC1D2A6,Bug,31,12,31,12,31,27,Steadfast,Sassy,Male,244,74,158,0
+F15DFDA0,Grumpig,Yes,13FB67FB,58B7A694,Dark,31,24,31,6,17,31,Gluttony,Careful,Female,60,203,158,0
+F8BF8366,Toedscruel,Yes,1B5CEDC1,EA5B54D2,Fighting,31,31,18,31,19,31,Mycelium Might,Lonely,Male,52,139,158,0

@@ -1,0 +1,27 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+06907AE9,Toxicroak,Yes,292DE544,542F5964,Ground,31,31,31,27,10,14,Poison Touch,Docile,Male,162,178,158,0
+0E98634D,Donphan,Yes,3135CDA8,7CCAF71D,Steel,0,30,31,31,21,31,Sturdy,Brave,Female,158,107,158,0
+1BF34561,Zangoose,Yes,3E90AFBC,D9E04FAA,Fighting,31,3,1,4,31,31,Immunity,Modest,Female,103,210,158,0
+30151551,Tauros (Combat Breed),Yes,52B27FAC,905AAD2B,Electric,15,31,24,31,31,21,Anger Point,Sassy,Male,161,117,158,0
+3739A70B,Drakloak,Yes,59D71166,2389F03F,Bug,13,31,31,31,1,19,Cursed Body,Docile,Female,79,64,158,0
+427FC7CE,Seviper,Yes,651D3229,392EB2A1,Fire,31,17,25,16,31,31,Shed Skin,Naughty,Male,118,78,158,0
+480FF164,Tropius,Yes,6AAD5BBF,84F0A71E,Electric,31,16,22,31,4,31,Solar Power,Hasty,Female,159,27,158,0
+608A14CF,Cacturne,Yes,83277F2A,8EF06419,Water,31,21,13,12,31,31,Water Absorb,Bashful,Female,139,209,158,0
+62FBF65E,Floatzel,Yes,859960B9,4E7C5261,Psychic,12,31,31,31,1,4,Swift Swim,Rash,Female,169,219,158,0
+633D02D2,Flamigo,Yes,85DA6D2D,57A98FE1,Psychic,3,31,16,31,31,31,Costar,Hasty,Male,205,156,158,0
+719C0B46,Gogoat,Yes,943975A1,E41AA3AD,Fighting,31,24,29,31,31,17,Sap Sipper,Naive,Male,195,95,158,0
+73D0FACE,Lycanroc (Midnight),Yes,966E6529,B346685A,Fire,31,26,31,31,3,23,Vital Spirit,Timid,Female,107,165,158,0
+745274E9,Eelektrik,Yes,96EFDF44,BF0D078B,Ground,15,22,0,31,31,31,Levitate,Gentle,Female,100,231,158,0
+7C944B8B,Cryogonal,Yes,9F31B5E6,D1AFC8F4,Bug,6,31,31,16,4,31,Levitate,Hardy,Genderless,122,131,158,0
+821ED953,Whiscash,Yes,A4BC43AE,E5C09095,Ice,21,31,30,31,31,6,Anticipation,Mild,Female,73,169,158,0
+8DF5B59D,Wugtrio,Yes,B0931FF8,56DB1AAF,Dragon,23,31,11,31,31,27,Rattled,Hasty,Female,30,88,158,0
+9DF8BC68,Clodsire,Yes,C09626C3,9CBDCDFC,Poison,31,28,28,13,31,31,Unaware,Hardy,Male,157,170,158,0
+A0869662,Beartic,Yes,C32400BD,A4D4FE45,Fire,31,31,31,31,9,15,Slush Rush,Timid,Male,79,136,158,0
+BED10324,Ursaring,Yes,E16E6D7F,1A34A780,Normal,31,31,5,31,27,22,Quick Feet,Modest,Female,70,117,158,0
+C2352F60,Oricorio,Yes,E4D299BB,8529EF35,Dark,31,6,31,20,31,31,Dancer,Impish,Female,104,124,158,0
+C3E0CC4D,Wugtrio,Yes,E67E36A8,54B2DEA5,Steel,31,15,1,31,31,5,Rattled,Lax,Female,122,138,158,0
+D480E6E2,Oricorio,Yes,F71E513D,EE10B999,Ice,31,31,24,31,2,11,Dancer,Hasty,Male,81,177,158,0
+DD27846A,Houndstone,Yes,FFC4EEC5,6956BA4C,Rock,18,31,31,31,10,0,Fluffy,Serious,Female,107,48,158,0
+EBAC73DF,Swalot,Yes,0E49DE3A,8CE9A0D4,Fairy,31,31,19,31,21,4,Gluttony,Modest,Male,115,59,158,0
+F33D63E1,Dedenne,Yes,15DACE3C,D52C602A,Water,18,31,4,25,31,31,Plus,Sassy,Male,110,202,158,0
+F624D2E2,Falinks,Yes,18C23D3D,78317D1D,Poison,16,8,31,31,0,31,Battle Armor,Relaxed,Genderless,167,146,158,0

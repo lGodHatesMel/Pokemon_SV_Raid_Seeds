@@ -1,0 +1,31 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+0BA50BAF,Gumshoos,Yes,2E42760A,A2F90E42,Water,31,14,21,1,8,31,Stakeout,Mild,Female,47,221,158,0
+1ACB3E49,Chansey,Yes,3D68A8A4,3A8CC1A5,Ground,8,31,11,31,28,11,Healer,Hardy,Female,93,215,158,0
+1F390FC9,Pincurchin,Yes,41D67A24,04E77558,Ground,11,5,31,31,6,7,Lightning Rod,Impish,Male,126,161,158,0
+249B7A21,Fletchinder,Yes,4738E47C,8DE83922,Flying,9,31,18,29,7,31,Flame Body,Bold,Male,157,110,158,0
+3459BDAB,Sneasel,Yes,56F72806,A6231E33,Bug,5,31,7,20,31,31,Inner Focus,Naughty,Female,171,128,158,0
+36283C26,Girafarig,Yes,58C5A681,DEDAE2D8,Fighting,29,31,1,31,12,26,Sap Sipper,Jolly,Female,199,88,158,0
+574177A1,Dunsparce (Common),Yes,79DEE1FC,547F05A4,Steel,28,26,31,3,31,31,Rattled,Naughty,Female,192,192,158,0
+57A963A7,Larvesta,Yes,7A46CE02,F529FD90,Flying,31,31,14,30,21,23,Flame Body,Hardy,Male,91,182,158,0
+5A10EACA,Goomy,Yes,7CAE5525,A1008833,Rock,20,17,27,21,31,31,Hydration,Quirky,Male,66,110,158,0
+5F04CA22,Sableye,Yes,81A2347D,73EBE8F3,Steel,31,12,15,31,8,22,Stall,Adamant,Female,208,53,158,0
+6386C9C8,Finizen,Yes,86243423,78D6D43C,Poison,2,17,27,31,16,31,Water Veil,Lax,Female,102,123,158,0
+7530A8AB,Lokix,Yes,97CE1306,39B35A99,Bug,23,31,17,0,31,28,Tinted Lens,Mild,Male,153,171,158,0
+7B3DBB9C,Glimmet,Yes,9DDB25F7,6F4C0781,Fighting,17,7,18,25,31,31,Toxic Debris,Naive,Female,152,119,158,0
+7B48A909,Eevee,Yes,9DE61364,9AB48C91,Ground,31,15,14,28,31,0,Adaptability,Modest,Male,159,97,158,0
+81232116,Pawmo,Yes,A3C08B71,165A3F1D,Fairy,31,1,0,11,31,19,Volt Absorb,Mild,Male,160,208,158,0
+878F7B27,Pikachu,Yes,AA2CE582,A71A00EB,Flying,8,1,31,25,31,8,Static,Impish,Male,140,159,158,0
+8C535D94,Axew,Yes,AEF0C7EF,E2D4E501,Dragon,13,4,31,31,0,5,Mold Breaker,Modest,Female,166,128,158,0
+8E131237,Larvitar,Yes,B0B07C92,E01E7F0D,Fighting,31,7,31,22,19,20,Sand Veil,Relaxed,Male,123,158,158,0
+90511033,Numel,Yes,B2EE7A8E,EC230AC1,Ice,27,9,9,31,0,31,Oblivious,Relaxed,Male,139,57,158,0
+96C00642,Steenee,Yes,B95D709D,B316C743,Dragon,31,22,18,23,26,31,Oblivious,Quiet,Female,155,140,158,0
+9B87BDC9,Sneasel,Yes,BE252824,9B986608,Ground,19,31,30,20,3,31,Pickpocket,Bashful,Male,209,151,158,0
+AC7CF7A5,Hippopotas,Yes,CF1A6200,98555E88,Normal,2,31,2,28,31,22,Sand Stream,Gentle,Female,53,126,158,0
+AC91310F,Numel,Yes,CF2E9B6A,0DF0A95C,Water,31,31,31,26,1,4,Oblivious,Adamant,Male,153,86,158,0
+B6A38C3E,Greedent,Yes,D940F699,4D92F834,Poison,3,31,31,1,20,19,Gluttony,Rash,Female,86,146,158,0
+C3DC9314,Cubchoo,Yes,E679FD6F,260D6E6A,Dragon,21,30,31,31,13,13,Rattled,Jolly,Female,89,199,158,0
+D60CCEB1,Indeedee,Yes,F8AA390C,FC051A73,Electric,31,21,5,31,0,22,Own Tempo,Naive,Female,135,128,158,0
+D63E2893,Luxio,Yes,F8DB92EE,C29CCADB,Ice,31,22,31,3,9,23,Intimidate,Naive,Female,124,197,158,0
+DE9EB445,Hippopotas,Yes,013C1EA0,4C1BFBB8,Normal,31,18,31,15,29,8,Sand Stream,Careful,Male,100,193,158,0
+ED0411CA,Kricketune,Yes,0FA17C25,F0E688F7,Rock,30,23,31,2,19,31,Swarm,Adamant,Male,190,105,158,0
+FE620B3D,Noibat,Yes,20FF7598,95C5D10C,Fighting,17,23,31,31,15,8,Infiltrator,Mild,Male,138,60,158,0

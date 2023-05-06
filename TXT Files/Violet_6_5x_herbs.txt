@@ -1,0 +1,168 @@
+{
+  "Seed": "2B7E86B0",
+  "Species": "Farigiraf",
+  "Tera Type": "Grass",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "491E46B1",
+  "Species": "Farigiraf",
+  "Tera Type": "Electric",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "49888174",
+  "Species": "Cetitan",
+  "Tera Type": "Dragon",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "4C47A182",
+  "Species": "Cetitan",
+  "Tera Type": "Bug",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "58E4930B",
+  "Species": "Amoonguss",
+  "Tera Type": "Bug",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "634F8080",
+  "Species": "Dondozo",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "7DBBBDD5",
+  "Species": "Amoonguss",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "8C4086BA",
+  "Species": "Farigiraf",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A6FC3DC9",
+  "Species": "Amoonguss",
+  "Tera Type": "Ground",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A73AFA08",
+  "Species": "Blissey",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "A9D791A6",
+  "Species": "Dondozo",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AE4DB180",
+  "Species": "Dondozo",
+  "Tera Type": "Electric",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B8A6C06D",
+  "Species": "Dondozo",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B8F056F7",
+  "Species": "Vaporeon",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BAE7BA08",
+  "Species": "Blissey",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EA613D9D",
+  "Species": "Amoonguss",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EF537183",
+  "Species": "Dondozo",
+  "Tera Type": "Fairy",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F15C06C3",
+  "Species": "Farigiraf",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F3FB805C",
+  "Species": "Dondozo",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F64BFDA4",
+  "Species": "Amoonguss",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "FDE2A07D",
+  "Species": "Dondozo",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}

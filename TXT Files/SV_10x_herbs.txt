@@ -1,0 +1,24 @@
+{
+  "Seed": "13C67392",
+  "Species": "Amoonguss",
+  "Tera Type": "Psychic",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "No",
+}
+{
+  "Seed": "4A3CA207",
+  "Species": "Cetitan",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "No",
+}
+{
+  "Seed": "51BD1719",
+  "Species": "Vaporeon",
+  "Tera Type": "Dark",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "No",
+}

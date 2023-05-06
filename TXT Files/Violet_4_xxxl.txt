@@ -1,0 +1,208 @@
+{
+  "Seed": "0477DA66",
+  "Species": "Kilowattrel",
+  "Tera Type": "Fighting",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "059A8B63",
+  "Species": "Gogoat",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "092DB74B",
+  "Species": "Lumineon",
+  "Tera Type": "Bug",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1ACB3E49",
+  "Species": "Magneton",
+  "Tera Type": "Ground",
+  "Gender": "Genderless",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1B7D905F",
+  "Species": "Gabite",
+  "Tera Type": "Grass",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "1F390FC9",
+  "Species": "Polteageist",
+  "Tera Type": "Ground",
+  "Gender": "Genderless",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "32EF7667",
+  "Species": "Floatzel",
+  "Tera Type": "Flying",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "40A17CE7",
+  "Species": "Forretress",
+  "Tera Type": "Flying",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "574177A1",
+  "Species": "Heracross",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "59C854DA",
+  "Species": "Lurantis",
+  "Tera Type": "Dark",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "5A10EACA",
+  "Species": "Medicham",
+  "Tera Type": "Rock",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "5F04CA22",
+  "Species": "Gabite",
+  "Tera Type": "Steel",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "6386C9C8",
+  "Species": "Lycanroc (Midday)",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "82B34FDF",
+  "Species": "Polteageist",
+  "Tera Type": "Dragon",
+  "Gender": "Genderless",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "9B87BDC9",
+  "Species": "Donphan",
+  "Tera Type": "Ground",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "AC3A2DE5",
+  "Species": "Toedscruel",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "B17E6A20",
+  "Species": "Magneton",
+  "Tera Type": "Psychic",
+  "Gender": "Genderless",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "BEF3B8D6",
+  "Species": "Persian",
+  "Tera Type": "Fairy",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "C992A759",
+  "Species": "Bisharp",
+  "Tera Type": "Ice",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "D6CC25E6",
+  "Species": "Ditto",
+  "Tera Type": "Fighting",
+  "Gender": "Genderless",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "DE9EB445",
+  "Species": "Krokorok",
+  "Tera Type": "Normal",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "E127B7D8",
+  "Species": "Lilligant",
+  "Tera Type": "Normal",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "EE805368",
+  "Species": "Toedscruel",
+  "Tera Type": "Poison",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F09A6FE2",
+  "Species": "Lurantis",
+  "Tera Type": "Bug",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F15DFDA0",
+  "Species": "Grumpig",
+  "Tera Type": "Dark",
+  "Gender": "Female",
+  "Scale": "158",
+  "Shiny": "Yes",
+}
+{
+  "Seed": "F8BF8366",
+  "Species": "Toedscruel",
+  "Tera Type": "Fighting",
+  "Gender": "Male",
+  "Scale": "158",
+  "Shiny": "Yes",
+}

@@ -1,0 +1,22 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+2B7E86B0,Farigiraf,Yes,4E1BF10B,1852AA8C,Grass,31,31,31,31,31,31,Sap Sipper,Timid,Male,119,137,158,5
+491E46B1,Farigiraf,Yes,6BBBB10C,C9B6D897,Electric,31,31,31,31,31,31,Sap Sipper,Jolly,Male,38,180,158,5
+49888174,Cetitan,Yes,6C25EBCF,6F443E04,Dragon,31,31,31,31,31,31,Sheer Force,Timid,Female,89,65,158,5
+4C47A182,Cetitan,Yes,6EE50BDD,676EE6BA,Bug,31,31,31,31,31,31,Sheer Force,Bashful,Female,37,99,158,5
+58E4930B,Amoonguss,Yes,7B81FD66,F1B40ACB,Bug,31,31,31,31,31,31,Regenerator,Careful,Female,168,174,158,5
+634F8080,Dondozo,Yes,85ECEADB,9D5BFBBB,Poison,31,31,31,31,31,31,Water Veil,Timid,Female,111,132,158,5
+7DBBBDD5,Amoonguss,Yes,A0592830,6CFCDB31,Dark,31,31,31,31,31,31,Regenerator,Modest,Male,126,117,158,5
+8C4086BA,Farigiraf,Yes,AEDDF115,ABE5FCE0,Normal,31,31,31,31,31,31,Sap Sipper,Hasty,Male,14,144,158,5
+A6FC3DC9,Amoonguss,Yes,C999A824,911B7814,Ground,31,31,31,31,31,31,Regenerator,Bashful,Female,124,131,158,5
+A73AFA08,Blissey,Yes,C9D86463,94B359F6,Poison,31,31,31,31,31,31,Healer,Lonely,Female,130,191,158,5
+A9D791A6,Dondozo,Yes,CC74FC01,EED0EF71,Fighting,31,31,31,31,31,31,Water Veil,Relaxed,Female,198,168,158,5
+AE4DB180,Dondozo,Yes,D0EB1BDB,D945F8AA,Electric,31,31,31,31,31,31,Water Veil,Quirky,Male,105,112,158,5
+B8A6C06D,Dondozo,Yes,DB442AC8,3F4756C9,Steel,31,31,31,31,31,31,Water Veil,Careful,Female,81,106,158,5
+B8F056F7,Vaporeon,Yes,DB8DC152,94C55984,Ground,31,31,31,31,31,31,Hydration,Calm,Male,88,73,158,5
+BAE7BA08,Blissey,Yes,DD852463,40A52BD0,Poison,31,31,31,31,31,31,Healer,Lax,Female,99,80,158,6
+EA613D9D,Amoonguss,Yes,0CFEA7F8,801C50F1,Fairy,31,31,31,31,31,31,Regenerator,Brave,Female,171,139,158,5
+EF537183,Dondozo,Yes,11F0DBDE,4B7CA88E,Fairy,31,31,31,31,31,31,Water Veil,Bashful,Male,51,204,158,5
+F15C06C3,Farigiraf,Yes,13F9711E,53941861,Fighting,31,31,31,31,31,31,Sap Sipper,Modest,Female,85,67,158,5
+F3FB805C,Dondozo,Yes,1698EAB7,EFF54C8C,Fighting,31,31,31,31,31,31,Water Veil,Gentle,Female,95,86,158,5
+F64BFDA4,Amoonguss,Yes,18E967FF,3383CE41,Fighting,31,31,31,31,31,31,Regenerator,Rash,Female,110,73,158,5
+FDE2A07D,Dondozo,Yes,20800AD8,991ADD58,Fighting,31,31,31,31,31,31,Water Veil,Naive,Female,40,226,158,5

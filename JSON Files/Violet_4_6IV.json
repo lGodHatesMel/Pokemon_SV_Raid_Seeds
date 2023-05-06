@@ -1,0 +1,90 @@
+[
+    {
+        "Seed": "074ACC48",
+        "Species": "Wugtrio",
+        "Tera Type": "Poison",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "1893A754",
+        "Species": "Lycanroc (Midday)",
+        "Tera Type": "Dragon",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "286E74CF",
+        "Species": "Sawsbuck",
+        "Tera Type": "Water",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "2E9ABDD0",
+        "Species": "Ursaring",
+        "Tera Type": "Grass",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "3F33B956",
+        "Species": "Golduck",
+        "Tera Type": "Fairy",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "5E9F53E3",
+        "Species": "Clodsire",
+        "Tera Type": "Ghost",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "7289089B",
+        "Species": "Toxicroak",
+        "Tera Type": "Water",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "860222A1",
+        "Species": "Shelgon",
+        "Tera Type": "Ice",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "9AAE435C",
+        "Species": "Tauros (Combat Breed)",
+        "Tera Type": "Water",
+        "Gender": "Male",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "BD72A7C5",
+        "Species": "Vigoroth",
+        "Tera Type": "Normal",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    },
+    {
+        "Seed": "FC65AE4C",
+        "Species": "Dudunsparce",
+        "Tera Type": "Ghost",
+        "Gender": "Female",
+        "Scale": "158",
+        "Shiny": "Yes"
+    }
+]

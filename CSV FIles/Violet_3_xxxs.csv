@@ -1,0 +1,21 @@
+Seed,Species,Shiny,EC,PID,Tera Type,HP,Atk,Def,SpA,SpD,Spe,Ability,Nature,Gender,Height,Weight,Scale,Drops
+01FE8E13,Bergmite,Yes,249BF86E,F7FECD90,Ice,15,14,1,31,31,6,Sturdy,Timid,Female,219,176,158,0
+1F3900A6,Sunflora,Yes,41D66B01,0523D923,Fighting,14,28,20,31,31,14,Early Bird,Bold,Male,125,232,158,0
+22D86013,Naclstack,Yes,4575CA6E,8C04D98A,Ice,13,31,31,5,22,7,Clear Body,Relaxed,Female,60,52,158,0
+33A8FD30,Qwilfish,Yes,5646678B,DBCF177D,Grass,21,0,31,31,28,27,Poison Point,Quiet,Male,174,76,158,0
+4BEF578F,Kirlia,Yes,6E8CC1EA,042C475F,Water,19,31,31,23,29,0,Synchronize,Sassy,Female,111,114,158,0
+6770C2BE,Naclstack,Yes,8A0E2D19,24D35409,Psychic,20,15,31,28,26,31,Clear Body,Naughty,Male,123,131,158,0
+6D51CA2C,Goomy,Yes,8FEF3487,B3D464E3,Ghost,1,11,31,31,23,16,Sap Sipper,Naughty,Female,91,116,158,0
+82E962A5,Naclstack,Yes,A586CD00,3C426A1D,Normal,22,21,12,31,31,9,Sturdy,Naive,Male,161,97,158,0
+87EA6036,Fletchinder,Yes,AA87CA91,3ADCEE80,Fairy,31,23,14,23,5,31,Flame Body,Gentle,Female,174,72,158,0
+89A491B3,Luxio,Yes,AC41FC0E,17220599,Ice,31,31,2,7,27,6,Guts,Calm,Male,205,166,158,0
+8CC18E0D,Pikachu,Yes,AF5EF868,A877201F,Steel,26,31,9,11,31,11,Static,Modest,Male,120,134,158,0
+AC4D9D38,Qwilfish,Yes,CEEB0793,DBB86BA2,Flying,27,28,31,30,23,31,Poison Point,Impish,Male,97,135,158,0
+AE57C7C0,Corvisquire,Yes,D0F5321B,F2BA1B56,Electric,31,27,31,13,26,25,Big Pecks,Quiet,Female,197,48,158,0
+C1D2869D,Chansey,Yes,E46FF0F8,1FF9E292,Flying,31,24,5,31,25,30,Healer,Sassy,Female,77,77,158,0
+C664DB30,Pikachu,Yes,E902458B,4A0413CC,Grass,28,31,25,9,30,31,Static,Mild,Male,114,171,158,0
+C980D030,Zangoose,Yes,EC1E3A8B,DFF88312,Grass,10,31,5,8,29,31,Immunity,Sassy,Female,180,201,158,0
+E5111E27,Flaaffy,Yes,07AE8882,3DEE779B,Flying,18,31,14,0,10,31,Static,Jolly,Male,179,70,158,0
+EACA8BBF,Mareanie,Yes,0D67F61A,21BDDA26,Bug,20,10,31,9,31,14,Regenerator,Impish,Male,83,138,158,0
+EEABC326,Charcadet,Yes,11492D81,AB89E414,Fighting,31,19,31,22,2,22,Flash Fire,Adamant,Male,151,130,158,0
+F6FA779D,Seviper,Yes,1997E1F8,EDFD0983,Normal,29,5,31,31,12,16,Infiltrator,Rash,Male,112,107,158,0
