@@ -25,6 +25,3 @@ output_data = convert_dec_to_hex(input_data)
 # Write to a new file
 with open("config.txt", "w") as output_file:
     json.dump(output_data, output_file, indent=4)
-
-with open('newconfig.json', 'w') as json_file:
-    json.dump(output_data, output_file, indent=4)
