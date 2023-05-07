@@ -1,0 +1,2 @@
+﻿Seed	Item1	Item2	Item3	Item4	Item5	Item6	Item7	Item8	Item9	Item10	Item11	Item12	Item13	Item14	Item15	Item16	Item17	Item18	Item19	Item20	Item21	Item22	Item23	Item24	Item25	ExtraInfo	Calcs	
+000FDE14	Exp. Candy M x2 	Exp. Candy L x1 	Dunsparce Scales x4 	Health Feather x2 	Dunsparce Scales x2 (C)	Dragon Tera Shard x1 	Dragon Tera Shard x2 (H)	Big Mushroom x1 	Exp. Candy L x2 	Sitrus Berry x1 	Nugget x1 	Dunsparce Scales x2 	Exp. Candy M x1 	Exp. Candy M x1 												Dudunsparce (4☆) (Star)	0	

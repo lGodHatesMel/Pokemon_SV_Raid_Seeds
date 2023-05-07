@@ -1,0 +1,2 @@
+﻿Seed	Item1	Item2	Item3	Item4	Item5	Item6	Item7	Item8	Item9	Item10	Item11	Item12	Item13	Item14	Item15	Item16	Item17	Item18	Item19	Item20	Item21	Item22	Item23	Item24	Item25	ExtraInfo	Calcs	
+59AF6883	Exp. Candy L x1 	Exp. Candy XL x1 	Gastly Gas x5 	Health Feather x3 	Gastly Gas x3 (C)	Ghost Tera Shard x2 	Ghost Tera Shard x2 (H)	Exp. Candy L x1 	Gastly Gas x2 	Spicy Herba Mystica x1 	Sweet Herba Mystica x1 	Sour Herba Mystica x1 	Pomeg Berry x3 	Pomeg Berry x3 	Salty Herba Mystica x1 	Gastly Gas x2 	Exp. Candy L x1 									Gengar (5☆) (Square)	0	
