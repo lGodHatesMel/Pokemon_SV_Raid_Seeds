@@ -1,8 +1,8 @@
 import json
 
 # Open the JSON file
-with open("config.json", "r") as input_file:
-    input_data = json.load(input_file)
+with open("config.json", "r") as convertData:
+    decimalData = json.load(convertData)
 
 # Function to convert decimal values to hexadecimal values
 def convert_dec_to_hex(data):
@@ -20,8 +20,11 @@ def convert_dec_to_hex(data):
         return data
 
 # Convert decimal values to hexadecimal values
-output_data = convert_dec_to_hex(input_data)
+fileData = convert_dec_to_hex(decimalData)
 
 # Write to a new file
-with open("config.txt", "w") as output_file:
-    json.dump(output_data, output_file, indent=4)
+## When it creates the data in the txt file other things will convert to to hex decimal aswell
+## Im to lazy to try and figure out how to only convert only certain things from the json file 
+## so it will just convert what ever it can.
+with open("config.txt", "w") as convertedData:
+    json.dump(fileData, convertedData, indent=4)
